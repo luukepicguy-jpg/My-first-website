@@ -1,0 +1,10 @@
+#more{
+    background-color: rgb(123, 202, 255);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.TestPage{
+    margin-left: 30px;
+}
